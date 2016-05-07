@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Hallo Welt</string>
+    <string name="titulo_app">WILLKOMMEN</string>
+    <string name="inicio">ENTER</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hola Mundo Android</string>
+    <string name="titulo_app">BIENVENIDO</string>
+    <string name="inicio">ENTRAR</string>
+</resources>
